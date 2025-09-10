@@ -28,8 +28,7 @@ The design emphasizes **simplicity, responsiveness, and a user-friendly interfac
 ## Built With
 
 - HTML5  
-- CSS3  
-- Java
+- CSS3
 
 ---
 
